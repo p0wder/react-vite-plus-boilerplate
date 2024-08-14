@@ -1,2 +1,2 @@
-# react-vite-plus-boilerplate
-Use this to start new projects
+# React + Vite + React Query + TanStack Router + ShadCN + Tailwind CSS
+
